@@ -1,0 +1,16 @@
+80. Write a C program that reads the side (side sizes between 1 and 10 ) of a square and prints square using hash (#) character.
+Sample Input: 10
+Sample Output:
+
+Input the size of the square: 
+ # # # # # # # # # #
+ # # # # # # # # # #
+ # # # # # # # # # #
+ # # # # # # # # # #
+ # # # # # # # # # #
+ # # # # # # # # # #
+ # # # # # # # # # #
+ # # # # # # # # # #
+ # # # # # # # # # #
+ # # # # # # # # # #
+

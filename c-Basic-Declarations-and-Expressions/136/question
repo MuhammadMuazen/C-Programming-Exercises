@@ -1,0 +1,11 @@
+136. Write a C program to find prime numbers that are less than or equal to a given integer.
+Input:
+n (1 <= n <= 999,999)
+
+Sample Output:
+
+Input a number:
+123
+Number of prime numbers which are less than or equal to 123
+30
+

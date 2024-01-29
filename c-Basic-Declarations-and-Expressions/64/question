@@ -1,0 +1,10 @@
+64. Write a C program that accepts integers from the user until a zero or a negative number, displays the number of positive values, the minimum value, the maximum value, and the average value.
+Input a positive integer:
+Input next positive integer: 15
+Input next positive integer: 25
+Input next positive integer: 37
+Input next positive integer: 43
+Number of positive values entered is 4
+Maximum value entered is 43
+Minimum value entered is 15
+Average value is 30.0000

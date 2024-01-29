@@ -1,0 +1,15 @@
+98. Write a C program that accepts some text from the user and prints each word of that text on a separate line.
+Sample Output:
+
+Input some text:
+The quick brown fox jumps over the lazy dog
+The
+quick
+brown
+fox
+jumps
+over
+the
+lazy
+dog
+

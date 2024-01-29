@@ -1,0 +1,11 @@
+102. Write a C program that reads three integers and sorts the numbers in ascending order. Print the original numbers and the sorted numbers.
+Sample Output:
+
+Input 3 integers: 17
+-5
+25
+
+---------------------------
+Original numbers: 17, -5, 25
+Sorted numbers: -5, 17, 25
+

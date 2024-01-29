@@ -1,0 +1,11 @@
+52. Write a C program to read an array of length 5 and find the smallest element and its position.
+Test Data:
+Input the array elements:
+25
+35
+20
+14
+45
+Expected Output:
+Smallest Value: 14
+Position of the element: 3

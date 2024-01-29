@@ -1,0 +1,18 @@
+106. Write a C program that accepts 7 integer values and counts the even, odd, positive and negative values.
+Sample Output:
+
+
+Input 7 integers:
+10
+12
+15
+-15
+26
+35
+17
+
+Number of even values: 3
+Number of odd values: 4
+Number of positive values: 6
+Number of negative values: 1
+

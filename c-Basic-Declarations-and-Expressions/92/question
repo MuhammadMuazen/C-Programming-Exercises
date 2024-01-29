@@ -1,0 +1,8 @@
+92. Write a C program to find the last non-zero digit of the factorial of a given positive integer.
+For example for 5!, the output will be "2" because 5! = 120, and 2 is the last nonzero digit of 120
+Sample Output:
+
+Input a positive number:
+The last non-zero digit of the said factorial:
+0
+

@@ -1,0 +1,11 @@
+123. Write a C program that reads two integers m, n and computes the sum of n odd numbers starting from m.
+
+Sample Output:
+
+Input two integes (m, n):
+65
+5
+
+Sum of 5 odd numbers starting from 65:
+345
+

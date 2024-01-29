@@ -1,0 +1,12 @@
+145. Write a C program to sum all numerical values (positive integers) embedded in a sentence.
+Input:
+Sentences with positive integers are given over multiple lines. Each line is a character string containing one-byte alphanumeric characters, symbols, spaces, or an empty line. However the input is 80 characters or less per line and the sum is 10,000 or less.
+
+Sample Output:
+
+Input Sentences with positive integers:
+5littleJackand2mouse.
+
+Sum of all numerical values embedded in a sentence:
+7
+

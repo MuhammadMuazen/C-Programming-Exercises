@@ -1,0 +1,9 @@
+94. Write a C program to calculate body mass index and display the grade.
+Sample Output:
+
+Input the weight: 65
+Input the height: 5.6
+BMI = 2.072704
+
+Grade: Under 
+

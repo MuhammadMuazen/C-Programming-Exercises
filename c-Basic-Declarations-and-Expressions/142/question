@@ -1,0 +1,16 @@
+142. Write a C program that reads the two adjoining sides and the diagonal of a parallelogram and checks whether the parallelogram is a rectangle or a rhombus.
+Input:
+Two adjoined sides and the diagonal.
+1 <= ai, bi, ci <= 1000, ai + bi > ci
+
+Sample Output:
+
+Input two adjoined sides of the parallelogram:
+3
+4
+
+Input the diagonal of the parallelogram:
+5
+
+This is a rectangle.
+

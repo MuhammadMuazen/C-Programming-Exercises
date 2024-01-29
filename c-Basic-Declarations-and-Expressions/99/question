@@ -1,0 +1,18 @@
+99. Write a C program that takes some integer values from the user and prints a histogram.
+Sample Output:
+
+Input number of histogram bar (Maximum 10):
+4
+Input the values between 0 and 10 (separated by space):
+9
+7
+4
+3
+
+
+Histogram:
+#########
+#######
+####
+###
+

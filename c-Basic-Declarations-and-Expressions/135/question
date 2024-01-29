@@ -1,0 +1,20 @@
+135. Write a C program that reads an integer n and finds the number of combinations of a, b, c and d (0 ≤ a, b, c, d ≤ 9) where (a + b + c + d) will be equal to n.
+Input:
+n (1 <= n <= 50)
+
+Sample Output:
+
+Input a number:
+5
+
+a + b + c + d = n
+0, 0, 0, 5
+0, 0, 1, 4
+....
+4, 0, 1, 0
+4, 1, 0, 0
+5, 0, 0, 0
+
+Total number of combinations:
+56
+

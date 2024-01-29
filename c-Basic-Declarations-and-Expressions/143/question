@@ -1,0 +1,14 @@
+143. Write a C program to find the difference between the largest integer and the smallest integer, which are created by 8 numbers from 0 to 9. The number that can be rearranged shall start with 0 as in 00135668.
+Input:
+Data is a sequence of 8 numbers (digits from 0 to 9).
+Output:
+The difference between the largest integer and the smallest integer.
+
+Sample Output:
+
+Input an integer created by 8 numbers (0 to 9):
+25346879
+
+The difference between the largest integer and the smallest integer.
+98765432 - 23456789 = 73418553
+

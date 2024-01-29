@@ -1,0 +1,8 @@
+101. There are three given ranges. Write a C program that reads a floating-point number and finds the range where it belongs from four given ranges.
+Ranges: 0-30, 31-50, 51-80, 81-100
+
+Sample Output:
+
+Input a number: 87
+Range [80,100]
+

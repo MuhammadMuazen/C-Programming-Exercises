@@ -1,0 +1,6 @@
+93. Write a C program to check if a given number is nearly prime number or not.
+Nearly prime numbers are a positive integer which is equal to the product of two prime numbers.
+Sample Output:
+
+It is not a Nearly prime number.
+

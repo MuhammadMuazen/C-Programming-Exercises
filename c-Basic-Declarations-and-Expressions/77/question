@@ -1,0 +1,10 @@
+77. Write a C program that accepts principal amount, rate of interest and days for a loan and calculates the simple interest for the loan, using the following formula.
+interest = principal * rate * days / 365.
+Sample Input:
+10000
+.1
+365
+0
+Sample Output:
+Input loan amount (0 to quit): Input interest rate: Input term of the loan in days: The interest amount is $1000.00
+Input loan principal_amt (0 to quit): 

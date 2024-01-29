@@ -1,0 +1,11 @@
+34. Write a C program to compute the sum of consecutive odd numbers from a given pair of integers.
+Test Data :
+Input a pair of numbers (for example 10,2):
+Input first number of the pair: 10
+Input second number of the pair: 2
+Expected Output:
+List of odd numbers: 3
+5
+7
+9
+Sum=24

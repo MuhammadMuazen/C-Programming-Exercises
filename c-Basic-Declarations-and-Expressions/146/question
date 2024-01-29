@@ -1,0 +1,12 @@
+146. Write a C program to extract words of 3 to 6 characters length from a given sentence not more than 1024 characters.
+Input:
+English sentences consisting of delimiters and alphanumeric characters are given on one line.
+
+Sample Output:
+
+English sentences consisting of delimiters and alphanumeric characters on one line:
+w3resource.com
+
+Extract words of 3 to 6 characters length from the said sentence:
+com
+

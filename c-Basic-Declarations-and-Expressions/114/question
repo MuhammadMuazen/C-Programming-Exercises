@@ -1,0 +1,9 @@
+114. Write a C program that accepts two integer values and calculates the sum of all even values between them.
+Sample Output:
+Input two numbers (integer values):
+25
+45
+
+Sum of all even values between 25 and 45
+350
+

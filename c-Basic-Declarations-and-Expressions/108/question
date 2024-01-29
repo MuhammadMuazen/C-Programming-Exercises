@@ -1,0 +1,12 @@
+108. Write a C program that reads two integer values and calculates the sum of all odd numbers between them.
+Sample Output:
+
+Input the first integer number:
+25
+Input the second integer number (greater than first integer):
+45
+Sum of all odd values between 25 and 45:
+385
+Sum of all even values between 25 and 45:
+350
+

@@ -1,0 +1,13 @@
+134. Write a C program to check whether the three given lengths (integers) of three sides of a triangle form a right triangle or not. Print "Yes" if the given sides form a right triangle otherwise print "No".
+Input:
+Integers separated by a single space.
+1 <= length of the side <= 1,000
+
+Sample Output:
+
+Input the three sides of a trainagel:
+12
+11
+13
+It is not a right angle triangle!
+

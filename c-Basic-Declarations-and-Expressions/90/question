@@ -1,0 +1,9 @@
+90. Write a C program to find all prime palindromes in the range of two given numbers x and y (5 <= x<y<= 1000,000,000).
+A number is called a prime palindrome if the number is both a prime number and a palindrome.
+Sample Output:
+
+Input two numbers (separated by a space):
+List of prime palindromes:
+0
+1
+

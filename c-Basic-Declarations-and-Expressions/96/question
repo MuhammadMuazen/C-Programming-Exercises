@@ -1,0 +1,11 @@
+96. Write a C program to count blanks, tabs, and newlines in input text.
+Sample Output:
+
+Number of blanks, tabs, and newlines:
+Input few words/tab/newlines
+The quick
+brown fox jumps
+over the lazy dog
+^Z
+blank=7,tab=2,newline=3
+

@@ -1,0 +1,30 @@
+86. Write a C program to display the sizes and ranges for each of C's data types.
+Sample Output:
+
+Size of C data types:
+
+Type               Bytes
+
+--------------------------------
+char                 1
+int8_t               1
+unsigned char        1
+uint8_t              1
+short                2
+int16_t              2
+uint16t              2
+int                  4
+unsigned             4
+long                 8
+unsigned long        8
+int32_t              4
+uint32_t             4
+long long            8
+int64_t              8
+unsigned long long   8
+uint64_t             8
+float                4
+double               8
+long double          16
+_Bool                1
+

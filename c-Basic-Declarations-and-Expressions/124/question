@@ -1,0 +1,22 @@
+124. Write a C program that reads an array of integers (length 7), replaces every negative or null element with 1 and prints the array elements.
+
+Sample Output:
+
+Input 7 array elements:
+15
+12
+-7
+25
+0
+27
+53
+
+Array elements:
+array_nums[0] = 15
+array_nums[1] = 12
+array_nums[2] = 1
+array_nums[3] = 25
+array_nums[4] = 1
+array_nums[5] = 27
+array_nums[6] = 53
+

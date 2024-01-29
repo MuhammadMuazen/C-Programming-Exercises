@@ -1,0 +1,15 @@
+85. Write a C program to print a table of all the Roman numeral equivalents of decimal numbers in the range 1 to 50.
+Sample Output:
+
+Decimal  Roman
+number   numeral
+-------------------
+1        I
+2        II
+3        III
+4        IV
+.....
+98        LXXXXVIII
+99        LXXXXIX
+100        C
+

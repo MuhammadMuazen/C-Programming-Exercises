@@ -1,0 +1,18 @@
+139. Write a C program to find the maximum sum of a contiguous subsequence from a given sequence of numbers a1, a2, a3, ... an ( n = number of terms in the sequence).
+Input:
+You can assume that 1 <= n <= 500 and -10000 <= ai <= 10000.
+
+Sample Output:
+
+Input number of terms in the sequence:
+5
+
+Input the terms of the said sequence:
+3
+2
+6
+-7
+8
+Maximum sum of a contiguous subsequence:
+12
+

@@ -1,0 +1,13 @@
+115. Write a C program that accepts a pair of numbers from the user and prints the sequence from the lowest to the highest number. Also, print the average value of the sequence.
+
+Sample Output:
+
+Input two pairs values (integer values):
+14
+25
+
+Sequence from the lowest to highest number:
+14 15 16 17 18 19 20 21 22 23 24 25
+Average value of the said sequence
+    19.50
+

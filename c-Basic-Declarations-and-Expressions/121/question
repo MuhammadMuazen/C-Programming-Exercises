@@ -1,0 +1,13 @@
+121. Write a C program that reads an integer and finds all the divisors of the said integer.
+
+Sample Output:
+
+Input a number (integer value):
+35
+
+All positive divisors of 35
+1
+5
+7
+35
+

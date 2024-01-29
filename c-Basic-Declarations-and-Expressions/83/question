@@ -1,0 +1,6 @@
+83. Write a C program that reads an integer (7 digits or fewer) and counts the number of 3s in the given number.
+Sample Input: 538453
+Sample Output:
+
+Input a number: The number of threes in the said number is 2
+

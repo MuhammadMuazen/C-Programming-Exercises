@@ -1,0 +1,4 @@
+71. Write a C program to copy a given string into another and count the number of characters copied.
+Input a string
+Original string: w3resource
+Number of characters = 10

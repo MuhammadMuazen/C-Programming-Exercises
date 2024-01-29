@@ -1,0 +1,9 @@
+117. Write a C program that reads two integers and divides the first number by second, print the result of this division with two digits after the decimal point and prints “Division not possible..!” if the division is not possible.
+
+Sample Output:
+
+Input two integer values:
+75
+5
+Result: 15.00
+

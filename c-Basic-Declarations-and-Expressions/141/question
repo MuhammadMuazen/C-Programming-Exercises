@@ -1,0 +1,15 @@
+141. Write a C program that reads n digits (given) chosen from 0 to 9 and prints the number of combinations where the sum of the digits equals another given number (s). Do not use the same digits in a combination.
+For example, the combinations where n = 3 and s = 6 are as follows:
+1 + 2 + 3 = 6
+0 + 1 + 5 = 6
+0 + 2 + 4 = 6
+
+Sample Output:
+
+Input the number:
+3
+
+Sum of the digits:
+6
+Number of combinations: 3
+

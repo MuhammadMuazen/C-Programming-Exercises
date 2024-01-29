@@ -1,0 +1,16 @@
+126. Write a C program that reads an array (length 7) and prints all array positions that store a value less than or equal to 0.
+
+Sample Output:
+
+Input 7 array elements:
+15
+23
+37
+65
+20
+-7
+65
+
+Array positions that store a value less or equal to 0:
+array_nums[5] = -7.0
+

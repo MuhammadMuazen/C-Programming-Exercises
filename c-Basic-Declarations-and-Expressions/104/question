@@ -1,0 +1,15 @@
+104. Write a C program that reads the item's price and creates a revised price for the item, based on the item price table.
+Sample Output:
+
+Input the item price:525
+New Item price: 582.75
+Increased price: 57.75
+Increase Percentage: 11%
+
+---------------------------
+Item Price 	Increase Rate
+100 - 400.00 	        14%
+400.01 - 800.00 	11%
+800.01 - 1200.00 	9%
+1200.01 - 2000.00 	6%
+Above 2000.00 	        3%

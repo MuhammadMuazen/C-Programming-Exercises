@@ -1,0 +1,16 @@
+129. Write a C program that reads an array (length 10), and replaces the first element of the array by a given number and replaces each subsequent position of the array by one-third the value of the previous.
+
+Input a number:
+35
+
+Array elements:
+array_nums[0] = 35.0000
+array_nums[1] = 11.6667
+array_nums[2] = 3.8889
+array_nums[3] = 1.2963
+array_nums[4] = 0.4321
+array_nums[5] = 0.1440
+array_nums[6] = 0.0480
+array_nums[7] = 0.0160
+array_nums[8] = 0.0053
+array_nums[9] = 0.0018

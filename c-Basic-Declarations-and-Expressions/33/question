@@ -1,0 +1,11 @@
+33. Write a C program that accepts some integers from the user and finds the highest value and the input position.
+Test Data :
+Input 5 integers:
+5
+7
+15
+23
+45
+Expected Output:
+Highest value: 45
+Position: 5 

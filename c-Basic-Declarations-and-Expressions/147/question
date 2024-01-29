@@ -1,0 +1,10 @@
+147. Write a C program to find the number of combinations that satisfy p + q + r + s = n where n is a given number <= 2000 and p, q, r, s are between 0 and 1000.
+
+Sample Output:
+
+Input a positive integer:
+25
+
+Number of combinations of p,q,r,s:
+3276
+

@@ -1,0 +1,10 @@
+119. Write a C program to calculate the sum of all numbers between two given numbers (inclusive) not divisible by 7.
+
+Sample Output:
+
+Input two numbers(integer):
+25
+5
+Sum of all numbers between said numbers (inclusive) not divisible by 7:
+273
+

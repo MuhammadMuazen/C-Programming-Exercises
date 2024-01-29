@@ -1,0 +1,11 @@
+131.Write a C program that accepts two strings and checks whether the second string is present in the last part of the first string.
+
+Sample Output:
+
+Input the first string:
+abcdef
+Input the second string:
+ef
+Is second string present in the last part of the first string?
+Present!
+

@@ -1,0 +1,7 @@
+110. Write a C program to find the odd, even, positive and negative numbers from a given number (integer) and print a message 'Number is positive odd' or 'Number is negative odd' or 'Number is positive even' or 'Number is negative even'. If the number is 0 print "Zero".
+Sample Output:
+
+Input a number (integer):
+12
+Number is positive-even
+

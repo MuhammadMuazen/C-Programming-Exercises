@@ -1,0 +1,5 @@
+89. Write a C programming to calculate (x + y + z) for each pair of integers x, y and z where -2^31 <= x, y, z<= 2^31-1.
+Sample Output:
+
+Result: 140733606875472
+

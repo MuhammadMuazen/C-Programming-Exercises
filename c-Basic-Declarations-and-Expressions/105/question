@@ -1,0 +1,16 @@
+105. Write a C program that accepts seven floating point numbers and counts the number of positive and negative numbers. Print the average of all positive and negative values with two digits after the decimal number.
+Sample Output:
+
+Input 7 numbers(int/float):
+25
+35.75
+15
+-3.5
+40
+35
+16
+
+6 Number of positive numbers: Average 27.79
+
+1 Number of negative numbers: Average -3.50
+

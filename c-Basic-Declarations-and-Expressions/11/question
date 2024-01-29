@@ -1,0 +1,8 @@
+11. Write a C program that accepts two item's weight and number of purchases (floating point values) and calculates their average value.
+Test Data :
+Weight - Item1: 15
+No. of item1: 5
+Weight - Item2: 25
+No. of item2: 4
+Expected Output:
+Average Value = 19.444444

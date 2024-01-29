@@ -1,0 +1,24 @@
+87. Write a C program to display the minimum and maximum values for each of C's data types.
+Sample Output:
+
+Ranges for integer data types in C
+
+------------------------------------------------------------
+int8_t                    -128                   127
+int16_t                 -32768                 32767
+int32_t            -2147483648            2147483647
+int64_t   -9223372036854775808   9223372036854775807
+uint8_t                      0                   255
+uint16_t                     0                 65535
+uint32_t                     0            4294967295
+uint64_t                     0  18446744073709551615
+
+============================================================
+
+Ranges for real number data types in C
+
+------------------------------------------------------------
+float          1.175494e-38    3.402823e+38
+double        2.225074e-308   1.797693e+308
+long double  3.362103e-4932  1.189731e+4932
+

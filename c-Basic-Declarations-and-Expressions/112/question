@@ -1,0 +1,14 @@
+112. Write a C program that reads six integer values from the user and finds the highest value and its position.
+Sample Output:
+
+Input 6 numbers (integer values):
+15
+20
+25
+17
+-8
+35
+
+Maximum value: 35
+Position: 6
+

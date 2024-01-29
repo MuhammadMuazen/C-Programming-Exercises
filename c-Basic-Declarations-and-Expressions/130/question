@@ -1,0 +1,17 @@
+130. Write a C program to create an array of length n and fill the array elements with integer values. Find the smallest value and its position in the array.
+
+Sample Output:
+
+Input the array size:
+5
+
+Input array elements:
+35
+17
+-5
+45
+36
+
+Smallest Value: -5
+Position within array: 2
+

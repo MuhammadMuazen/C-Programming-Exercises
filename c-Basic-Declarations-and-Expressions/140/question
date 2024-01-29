@@ -1,0 +1,17 @@
+140. Write a C program that reads a sequence of integers and finds the element that occurs most frequently.
+
+Sample Output:
+
+
+Input the terms of the sequence:
+5
+2
+4
+6
+8
+10
+5
+^Z
+the element the occurs most frequently is:
+5
+

@@ -1,0 +1,9 @@
+116. Write a C program that accepts a pair of numbers from the user and prints "Ascending order" if the two numbers are in ascending order, otherwise prints, "Descending order".
+
+Sample Output:
+
+Input two pairs values (integer values):
+12
+35
+Ascending order
+

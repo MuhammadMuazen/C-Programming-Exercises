@@ -1,0 +1,11 @@
+122. Write a C program that reads two integers m, n and computes the sum of n even numbers starting from m.
+
+Sample Output:
+
+Input two integes (m, n):
+20
+60
+
+Sum of 60 even numbers starting from 20:
+4740
+

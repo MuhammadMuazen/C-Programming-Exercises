@@ -1,0 +1,12 @@
+118. Write a C program that reads five subject marks (0-100) of a student and calculates the average of these marks.
+
+Sample Output:
+
+Input five subject marks(0-100):
+75
+84
+56
+98
+68
+Average marks = 76.20
+

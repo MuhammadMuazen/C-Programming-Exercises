@@ -1,0 +1,30 @@
+149. Write a C program that reads a list of pairs of a word and a page number, and prints the word and a list of the corresponding page numbers.
+Input:
+word page_number
+Output:
+word
+a_list_of_the_page_number
+word
+a_list_of_the_Page_number.
+
+Sample Output:
+
+Input pairs of a word and a page_no number:
+Twinkle
+65
+Twinkle
+55
+Little
+25
+Star
+35
+^Z
+
+Word and page_no number in alphabetical order:
+Little
+25
+Star
+35
+Twinkle
+55 65
+

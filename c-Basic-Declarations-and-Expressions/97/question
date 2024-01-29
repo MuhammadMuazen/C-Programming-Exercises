@@ -1,0 +1,11 @@
+97. Write a C program that accepts a string and counts the number of characters, words and lines.
+Sample Output:
+
+Input a string and get number of charcters, words and lines:
+The quick brown fox jumps over the lazy dog
+^Z
+
+Number of Characters = 44
+Number of words = 9
+Number of lines = 1
+

@@ -1,0 +1,16 @@
+100. Write a C program to convert a currency value (floating point with two decimal places) to the number of coins and notes.
+Sample Output:
+
+Input the currency value (floating point with two decimal places):
+10357.75
+
+Currency Notes:
+100 number of Note(s): 103
+50 number of Note(s): 1
+5 number of Note(s): 1
+1 number of Note(s): 1
+
+Currency Coins:
+.50 number of Coin(s): 1
+.25 number of Coin(s): 1
+
