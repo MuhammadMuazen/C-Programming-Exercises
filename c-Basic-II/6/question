@@ -1,0 +1,13 @@
+6. Write a C program that accepts a sequence of positive integers from the user and finds the longest continuous subsequence.
+
+Sample Date:
+
+Length of the sequence: 5
+Sequence: 5 2 3 4 1
+Length of longest ascending contiguous subsequence: 3 [2 3 4]
+Length of the sequence: 6
+Sequence: 10 20 30 40 50 60
+Length of longest ascending contiguous subsequence: 6 [10 20 30 40 50 60]
+Length of the sequence: 3
+Sequence: 5 1 3
+Length of longest ascending contiguous subsequence: 2 [1 3]

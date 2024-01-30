@@ -1,0 +1,10 @@
+7. Write a C program that accepts three integers: A, B, and X. Find the smallest absolute value of the difference between X and the integers between A and B.
+
+Sample Date:
+
+Input A, B: 7, 11
+C: 20
+Smallest absolute value of difference between X and integers between A and B (inclusive): 11
+Input A, B: 1, 5
+C: 4
+Smallest absolute value of difference between X and integers between A and B (inclusive): 4

@@ -1,0 +1,14 @@
+4. Write a C program that accepts two sequences ((a1, a2, .. an), (b1, b2, .. bn)) of integers as input. Find all integers that appear in both sequences, one by one, in ascending order.
+
+Constraints:
+
+    1≤N1≤100, N1 -> number of integers in first sequence.
+    1≤N2≤100, N2 -> number of integers in second sequence.
+    1 ≤ ai≤ 100 ( 1 ≤ i ≤ N1 )
+    1 ≤ bj≤ 100 ( 1 ≤ j ≤ N2 )
+
+Sample Date:
+
+( 1 2 3 1 2 3 4) -> 1 2 3
+( 1 2 3 1 2 3) -> 1 2 3
+(1 2 3 4 5 6) -> 

@@ -1,0 +1,8 @@
+5. Write a C program that accepts a sequence of different values and calculates the sum of the values before and after the maximum value.
+The sum of the values before the maximum value is 0, if there are no values before the maximum. Similarly, the sum of the values after the maximum value is 0, if there are no values after the maximum.
+
+Sample Date:
+
+1 2 3 -> 3 0
+1 2 9 4 5 -> 3 9
+2 2 2 2 -> 0 6
