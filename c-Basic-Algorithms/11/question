@@ -1,0 +1,8 @@
+11. Write a C program that checks if two given integers are in the range of 40 to 50 inclusive, or if they are both in the range of 50 to 60 inclusive.
+Expected Output:
+
+0
+0
+1
+1
+

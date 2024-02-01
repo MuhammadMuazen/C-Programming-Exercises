@@ -1,0 +1,8 @@
+12. Write a C program that takes two positive integer values as input and checks if either of them is in the range of 20 to 30 (inclusive). If at least one number falls in this range, the program returns the larger value. Otherwise, it returns 0.
+Expected Output:
+
+0
+30
+25
+28
+

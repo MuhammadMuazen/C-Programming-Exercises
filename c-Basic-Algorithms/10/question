@@ -1,0 +1,7 @@
+10. Write a C program to check which number is nearest to the value 100 among two given integers. Return 0 if the two numbers are equal.
+Expected Output:
+
+95
+0
+99
+

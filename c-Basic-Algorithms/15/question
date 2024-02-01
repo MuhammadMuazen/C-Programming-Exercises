@@ -1,0 +1,7 @@
+15. Write a C program to count the number of 5's adjacent to each other in an array of integers. Consider the situation where the second 5 is actually a 6.
+Expected Output:
+
+1
+2
+1
+

@@ -1,0 +1,8 @@
+13. Write a C program to check if two given non-negative integers have the same last digit.
+Expected Output:
+
+0
+1
+1
+0
+
