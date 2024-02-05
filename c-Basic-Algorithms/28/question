@@ -1,0 +1,6 @@
+28. Write a C program to check two given integers. Each integer is in the range 10..99. Return true if a digit appears in both numbers, such as the 3 in 13 and 33.
+Expected Output:
+
+1
+0
+1

@@ -1,0 +1,7 @@
+29. Write a C program to compute the sum of three given integers. Return the third value if the two values are the same.
+Expected Output:
+
+16
+23
+12
+18

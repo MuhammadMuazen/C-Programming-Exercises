@@ -1,0 +1,6 @@
+24. Write a C program that checks if y is greater than x and z is greater than y, given three integers x, y, and z. If both conditions are true, the program returns true. Otherwise, it returns false.
+Expected Output:
+
+1
+1
+0

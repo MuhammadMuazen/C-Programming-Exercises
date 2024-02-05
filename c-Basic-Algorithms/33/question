@@ -1,0 +1,6 @@
+33. Write a C program to check three given integers (small, medium and large) and return true if the difference between small and medium and the difference between medium and large is the same.
+Expected Output:
+
+1
+0
+1

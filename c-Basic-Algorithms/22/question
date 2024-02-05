@@ -1,0 +1,7 @@
+22. Write a C program to compute the sum of the two given integers. Return 18 if one of the integer values given is in the range 10..20 inclusive.
+Expected Output:
+
+10
+18
+18
+241

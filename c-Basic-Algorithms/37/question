@@ -1,0 +1,5 @@
+37. Write a C program to rotate the elements of a given array of integers (length 4 ) in the left direction and return the updated array.
+Expected Output:
+
+Elements in original array are: 10, 20, 30, 40
+Elements in new array are: 20, 30, 40, 10 

@@ -1,0 +1,5 @@
+35. Write a C program to check two given arrays of integers of length 1 or more. Return true if they have the same first element or if they have the same last element.
+Expected Output:
+
+1
+0

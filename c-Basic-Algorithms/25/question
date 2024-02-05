@@ -1,0 +1,6 @@
+25. Write a C program to check if two or more nonnegative integers have the same rightmost digit.
+Expected Output:
+
+1
+1
+0

@@ -1,0 +1,7 @@
+31. Write a C program to compute the sum of the three given integers with some exceptions. If any of the values is in the range 10..20 inclusive, then that value will be considered as 0, except for 13 and 17.
+Expected Output:
+
+16
+11
+13
+13

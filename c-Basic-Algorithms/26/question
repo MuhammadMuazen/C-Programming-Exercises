@@ -1,0 +1,6 @@
+26. Write a C program to check three given integers and return true if one of them is 20 or more and less than one of the others.
+Expected Output:
+
+1
+1
+0

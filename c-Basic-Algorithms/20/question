@@ -1,0 +1,6 @@
+20. Write a C program that checks if a given non-negative number is a multiple of 3 or 7, but not both.
+Expected Output:
+
+1
+1
+0

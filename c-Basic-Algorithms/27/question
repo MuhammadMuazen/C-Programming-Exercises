@@ -1,0 +1,6 @@
+27. Write a C program to find the larger of two given integers. However if the two integers have the same remainder when divided by 5, choose the smaller integer. If the two integers are the same, return 0.
+Expected Output:
+
+11
+20
+0

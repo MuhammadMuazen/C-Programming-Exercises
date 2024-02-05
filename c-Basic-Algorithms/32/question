@@ -1,0 +1,7 @@
+32. Write a C program to check two given integers and return the one nearest to 13 without crossing over. Return 0 if both numbers go over.
+Expected Output:
+
+5
+12
+13
+0
