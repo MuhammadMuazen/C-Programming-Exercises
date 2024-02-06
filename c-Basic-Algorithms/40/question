@@ -1,0 +1,5 @@
+40. Write a C program to create a new array taking the first and last elements of a given array of integers and length one or more.
+Expected Output:
+
+Elements in original array are: 10, 20, 30, 40, 50 
+Elements in new array are: 10, 50

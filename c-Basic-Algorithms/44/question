@@ -1,0 +1,5 @@
+44. Write a C program to check a given array of integers of length 3 and create a  new array. If there is a 5 in the given array immediately followed by a 7 then set 7 to 1.
+Expected Output:
+
+Elements in original array are: 1, 5, 7 
+Elements in new array are: 1, 5, 1

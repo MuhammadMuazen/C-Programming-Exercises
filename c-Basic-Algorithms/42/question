@@ -1,0 +1,6 @@
+42. Write a C program to check if an array of integers with length 2 does not contain 15 or 20.
+Expected Output:
+
+0
+0
+1

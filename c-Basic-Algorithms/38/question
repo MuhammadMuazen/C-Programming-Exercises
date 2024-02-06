@@ -1,0 +1,5 @@
+38. Write a C program to reverse a given array of integers of length 5.
+Expected Output:
+
+Elements in original array are: 10, 20, 30, 40, 50 
+Elements in reverse array are: 50, 40, 30, 20, 10
