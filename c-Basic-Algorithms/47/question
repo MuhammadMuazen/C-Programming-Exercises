@@ -1,0 +1,6 @@
+47. Write a C program to create a new array from two given arrays of integers, each of length 3.
+Expected Output:
+
+Elements in original array1 are: 10, 20, 30 
+Elements in original array2 are: 40, 50, 60 
+New array: 10, 20, 30, 40, 50, 60

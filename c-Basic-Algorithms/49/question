@@ -1,0 +1,5 @@
+49. Write a C program to create an array of length 3 from a given array (length at least 3) containing the elements from the middle of the array.
+Expected Output:
+
+Elements in original array1 are: 1, 5, 7, 9, 11, 13 
+New array: 7, 9, 11

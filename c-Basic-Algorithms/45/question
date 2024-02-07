@@ -1,0 +1,6 @@
+45. Write a C program to compute the sum of the two given arrays of integers, length 3 and find the array that has the largest sum.
+Expected Output:
+
+Elements in original array are: 10, 20, -30 
+Elements in original array are: 10, 20, 30 
+The array which has the largest sum.: 10, 20, 30

@@ -1,0 +1,5 @@
+46. Write a C program to create an array taking two middle elements from a given array of integers of length even.
+Expected Output:
+
+Elements in original array are: 1, 5, 7, 9, 11, 13 
+New array: 7, 9

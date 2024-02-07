@@ -1,0 +1,5 @@
+48. Write a C program to create a new array by swapping the first and last elements of a given array of integers whose length is at least 1.
+Expected Output:
+
+Elements in original array1 are: 1, 5, 7, 9, 11, 13 
+New array, after swapping first and last elements: 13, 5, 7, 9, 11, 1

@@ -1,0 +1,7 @@
+50. Write a C program to find the largest value from the first, last, and middle elements of a given array of integers of odd length (at least 1).
+Expected Output:
+
+1
+9
+9
+
