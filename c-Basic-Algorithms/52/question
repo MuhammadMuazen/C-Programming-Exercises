@@ -1,0 +1,5 @@
+52. Write a C program to compute the sum of values in a given array of integers except the number 17. Return 0 if the given array has no integers.
+Expected Output:
+
+Sum of values in the array of integers except the number 17: 46
+

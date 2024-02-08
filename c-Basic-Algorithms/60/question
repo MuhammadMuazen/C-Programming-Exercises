@@ -1,0 +1,7 @@
+60. Write a C program to check whether an array of integers contains a 3 next to a 3 or a 5 next to a 5 or both.
+Expected Output:
+
+1
+0
+1
+

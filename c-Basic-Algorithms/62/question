@@ -1,0 +1,7 @@
+62. Write a C program to check a given array of integers and return true if there is a 3 with a 5 somewhere later in the given array.
+Expected Output:
+
+0
+1
+0
+

@@ -1,0 +1,5 @@
+53. Write a C program to compute the sum of the numbers in a given array except those that begin with 5 followed by at least one 6. Return 0 if the given array has no integers.
+Expected Output:
+
+Sum of values in the array of integers: 37
+

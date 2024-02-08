@@ -1,0 +1,7 @@
+61. Write a C program to check a given array of integers. The program will return true if the given array contains two 5's next to each other, or two 5's separated by one element.
+Expected Output:
+
+1
+0
+1
+
