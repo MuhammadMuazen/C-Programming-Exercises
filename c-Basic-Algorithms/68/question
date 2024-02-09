@@ -1,0 +1,6 @@
+68. Write a C program to shift an element in the left direction and return a newly created array.
+Expected Output:
+
+Elements in original array are: 10, 20, 30, 40 
+Elements in new array are: 20, 30, 40, 10
+

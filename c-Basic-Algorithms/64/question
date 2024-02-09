@@ -1,0 +1,8 @@
+64. Write a C program to check a given array of integers. The program will return true if the value 5 appears 5 times and there are no 5 next to each other.
+Expected Output:
+
+1
+0
+1
+0
+

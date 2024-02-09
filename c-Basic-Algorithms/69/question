@@ -1,0 +1,6 @@
+69. Write a C program to create a new array taking the elements before the element value 5 from a given array of integers.
+Expected Output:
+
+Elements in original array are: 1, 2, 3, 5, 7
+Elements in new array are: 1, 2, 3
+

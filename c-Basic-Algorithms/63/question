@@ -1,0 +1,7 @@
+63. Write a C program to check a given array of integers. The program will return true if the given array contains either 2 even or 2 odd values all next to each other.
+Expected Output:
+
+0
+1
+1
+

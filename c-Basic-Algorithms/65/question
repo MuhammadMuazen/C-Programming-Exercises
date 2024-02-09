@@ -1,0 +1,8 @@
+65. Write a C program to check a given array of integers and return true if every 5 that appears in the given array is next to another 5.
+Expected Output:
+
+1
+0
+1
+1
+

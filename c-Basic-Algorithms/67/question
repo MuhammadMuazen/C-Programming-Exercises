@@ -1,0 +1,7 @@
+67. Write a C program to check a given array of integers and return true if the array contains three increasing adjacent numbers.
+Expected Output:
+
+1
+0
+1
+

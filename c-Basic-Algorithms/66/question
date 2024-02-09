@@ -1,0 +1,7 @@
+66. Write a C program to check a given array of integers. The program will return true if the specified number of the same elements appears at the start and end of the given array.
+Expected Output:
+
+1
+0
+1
+
