@@ -1,0 +1,7 @@
+74. Write a C program to check if the value of each element is equal or greater than the value of the previous element of a given array of integers.
+Expected Output:
+
+0
+1
+1
+

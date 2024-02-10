@@ -1,0 +1,7 @@
+73. Write a C program to create an array from a given array of integers shifting all even numbers before all odd numbers.
+Expected Output:
+
+Elements in original array are: 1, 2, 5, 3, 5, 4, 6, 9, 11 
+
+Elements in new array are: 2, 4, 6, 3, 5, 1, 5, 9, 11
+

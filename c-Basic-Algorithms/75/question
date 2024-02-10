@@ -1,0 +1,7 @@
+75. Write a C program to check a given array (length will be at least 2) of integers and return true if there are two values 15, 15 next to each other.
+Expected Output:
+
+1
+0
+1
+

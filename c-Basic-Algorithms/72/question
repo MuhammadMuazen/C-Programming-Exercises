@@ -1,0 +1,6 @@
+72. Write a C program to create an array after replacing all the values 5 with 0 and shifting all zeros to the right.
+Expected Output:
+
+Elements in original array are: 1, 2, 0, 3, 5, 7, 0, 9, 11, 5 
+Elements in new array are: 1, 2, 0, 3, 7, 0, 9, 11, 0, 0
+
