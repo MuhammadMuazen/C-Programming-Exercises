@@ -1,0 +1,7 @@
+2. Write a C program to convert a string to an unsigned long integer.
+
+Test Data and Expected Output :
+
+Input an unsigned number: 25                                            
+Output: 25
+
