@@ -1,0 +1,8 @@
+17. Write a C program to abort the current process. 
+
+Expected Output :
+
+ File does not exist or error, in opening the file.                                                           
+timeout: the monitored command dumped core                                                                    
+Aborted  
+

@@ -1,0 +1,8 @@
+10. Write a C program to return the quotient and remainder of a division.
+
+Test Data and Expected Output :
+
+Input numerator : 2000                                                 
+ Input denominator : 235                                                
+ quotient =  8, remainder = 120.          
+

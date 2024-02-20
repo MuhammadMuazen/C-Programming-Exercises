@@ -1,0 +1,6 @@
+16. Write a C program to return the absolute value of an integer. 
+
+Test Data and Expected Output :
+
+Input a positive or negative number :-25                               
+ The absolute value of the given number is : 25

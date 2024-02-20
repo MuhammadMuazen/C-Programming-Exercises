@@ -1,0 +1,7 @@
+9. Write a C program to get the environment string.
+
+Expected Output :
+
+The set path is: /usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin
+:/bin:/usr/games:/usr/local/games           
+

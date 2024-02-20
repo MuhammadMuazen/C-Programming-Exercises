@@ -1,0 +1,8 @@
+7. Write a C program to calculate the integral quotient and remainder of a division.
+
+Test Data and Expected Output :
+
+Input numerator : 2500                                                 
+ Input denominator : 235                                                
+ quotient =  10, remainder = 150                                                                  
+

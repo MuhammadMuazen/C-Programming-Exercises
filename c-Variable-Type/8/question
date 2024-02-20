@@ -1,0 +1,8 @@
+8. Write a C program to return the absolute value of a long integer.
+
+Test Data and Expected Output :
+
+Input 1st number (positive or negative) : 25                           
+ Input 2nd number (positive or negative) : -125                         
+ The absolute value of 1st number is : 25                                           
+ The absolute value of 2nd number is : 125      

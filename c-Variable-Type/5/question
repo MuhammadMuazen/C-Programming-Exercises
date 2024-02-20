@@ -1,0 +1,10 @@
+5. Write a C program to generate a random number.
+
+Test Data and Expected Output :
+
+Guess the number (1 to 10): 6                                           
+The number is higher                                                    
+                                                                        
+Guess the number (1 to 10): 7                                           
+That is correct!              
+

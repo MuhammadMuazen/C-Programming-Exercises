@@ -1,0 +1,10 @@
+18. Write a C program to demonstrate the working of the keyword long. 
+
+Expected Output :
+
+ The size of int = 4 bytes                                                           
+ The size of long = 8 bytes                                                          
+ The size of long long = 8 bytes                                                     
+ The size of double = 8 bytes                                                        
+ The size of long double = 16 byte 
+

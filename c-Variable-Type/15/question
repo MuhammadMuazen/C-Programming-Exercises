@@ -1,0 +1,7 @@
+15. Write a C program to set a function that will be executed on termination of a program. 
+
+Expected Output :
+
+This is the message from main function.                                
+ Here is the message returning from newFunctionTwo.                     
+ Here is the message returning from newFunctionOne.
