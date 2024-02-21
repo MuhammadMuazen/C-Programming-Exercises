@@ -1,0 +1,5 @@
+3. Write a C program that prints the perimeter of a rectangle using its height and width as inputs.
+Expected Output :
+Input the height of the Rectangle : 5
+Input the width of the Rectangle : 7
+Perimeter of the Rectangle is : 24.000000

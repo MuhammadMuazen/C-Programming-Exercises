@@ -1,0 +1,4 @@
+8. Write a program in C to calculate the sum of three numbers with input on one line separated by a comma.
+Expected Output :
+Input three numbers separated by comma : 5,10,15
+The sum of three numbers : 30

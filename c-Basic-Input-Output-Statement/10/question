@@ -1,0 +1,4 @@
+10. Write a C program to find the third angle of a triangle if two angles are given.
+Expected Output :
+Input two angles of triangle separated by comma : 50,70
+Third angle of the triangle : 60
