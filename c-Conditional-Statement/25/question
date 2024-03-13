@@ -1,0 +1,6 @@
+25. Write a C program which computes the area of various geometrical shapes using a menu-driven approach.
+Test Data :
+1
+5
+Expected Output :
+The area is : 78.500000 

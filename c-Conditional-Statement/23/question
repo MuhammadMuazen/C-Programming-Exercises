@@ -1,0 +1,5 @@
+23. Write a C program for reading any Month Number and displaying the Month name as a word.
+Test Data :
+4
+Expected Output :
+April

@@ -1,0 +1,5 @@
+11. Write a C program to calculate the root of a quadratic equation.
+Test Data : 1 5 7
+Expected Output :
+Root are imaginary;
+No solution. 

@@ -1,0 +1,5 @@
+15. Write a C program to check whether a triangle can be formed with the given values for the angles.
+Test Data :
+40 55 65
+Expected Output :
+The triangle is not valid.
