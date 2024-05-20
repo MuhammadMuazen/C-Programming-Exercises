@@ -1,0 +1,9 @@
+52. Write a C program to find the sum of the G.P. series.
+Test Data :
+Input the first number of the G.P. series: 3
+Input the number or terms in the G.P. series: 5
+Input the common ratio of G.P. series: 2
+Expected Output :
+The numbers for the G.P. series:
+3.000000 6.000000 12.000000 24.000000 48.000000
+The Sum of the G.P. series : 93.000000 

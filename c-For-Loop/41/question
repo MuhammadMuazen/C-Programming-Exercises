@@ -1,0 +1,4 @@
+41. Write a program in C to convert a decimal number into binary without using an array.
+Test Data :
+Input a decimal number: 25
+Binary number equivalent to said decimal number is: 11001

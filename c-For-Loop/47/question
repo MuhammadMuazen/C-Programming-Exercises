@@ -1,0 +1,7 @@
+47. Write a C program to check whether a number is a Strong Number or not.
+Test Data :
+Input a number to check whether it is Strong number: 15
+Expected Output :
+15 is not a Strong number.
+
+

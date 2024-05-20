@@ -1,0 +1,5 @@
+59. Write a C program to check the Armstrong number of n digits.
+Test Data :
+Input an integer : 1634
+Expected Output :
+1634 is an Armstrong number

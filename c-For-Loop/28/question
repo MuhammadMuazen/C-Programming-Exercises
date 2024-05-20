@@ -1,0 +1,6 @@
+28. Write a C program to find the 'Perfect' numbers within a given number of ranges.
+Test Data :
+Input the starting range or number : 1
+Input the ending range of number : 50
+Expected Output :
+The Perfect numbers within the given range : 6 28 

@@ -1,0 +1,6 @@
+51. Write a C program to convert an octal number to a decimal without using an array.
+Test Data :
+Input an octal number (using digit 0 - 7) :745
+Expected Output :
+The Octal Number : 745
+The equivalent Decimal Number : 485

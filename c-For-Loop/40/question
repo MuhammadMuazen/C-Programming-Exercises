@@ -1,0 +1,7 @@
+40. Write a C program to display the pyramid pattern using the alphabet.
+
+        A
+      A B A 
+    A B C B A
+  A B C D C B A 
+

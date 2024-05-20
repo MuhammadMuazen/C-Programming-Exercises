@@ -1,0 +1,5 @@
+29. Write a C program to check whether a given number is an Armstrong number or not.
+Test Data :
+Input a number: 153
+Expected Output :
+153 is an Armstrong number.

@@ -1,0 +1,6 @@
+54. Write a program in C to convert an octal number into binary.
+Test Data :
+Input an octal number (using digit 0 - 7) :57
+Expected Output :
+The Octal Number : 57
+The equivalent Binary Number : 101111

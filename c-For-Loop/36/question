@@ -1,0 +1,6 @@
+36. Write a C program to display a such a pattern for n rows using a number that starts with 1 and each row will have a 1 as the first and last number.
+
+  1
+ 121
+12321
+

@@ -1,0 +1,5 @@
+60. Write a C program that takes user input and counts the number of characters until the end of the file.
+Test Data :
+Input characters : w3resource
+Expected Output :
+Input characters: On Linux systems and OS X EOF is CTRL+D. For Windows EOF is CTRL+Z. Number of Characters: 10

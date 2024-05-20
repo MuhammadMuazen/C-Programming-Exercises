@@ -1,0 +1,6 @@
+58. Write a C program to find the length of a string without using the library function.
+Test Data :
+Input a string : welcome
+Expected Output :
+The string contains 7 number of characters.
+So, the length of the string welcome is : 7

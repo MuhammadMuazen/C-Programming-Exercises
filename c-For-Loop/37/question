@@ -1,0 +1,5 @@
+37. Write a program in C to display the number in reverse order.
+Test Data :
+Input a number: 12345
+Expected Output :
+The number in reverse order is : 54321

@@ -1,0 +1,5 @@
+50. Write a program in C to convert a decimal number into octal without using an array.
+Test Data :
+Enter a number to convert : 79
+Expected Output :
+The Octal of 79 is 117.
